@@ -1,0 +1,6 @@
+// Kommentar
+grupp HelloWorld {
+    tomrum börja() {
+        skriv("Hej Världen!");
+    }
+}
