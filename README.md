@@ -1,6 +1,6 @@
 ## Kaffe
 
-java, fast svenska.
+föenklad java, fast svenska.
 
 ### Resurser:
 
